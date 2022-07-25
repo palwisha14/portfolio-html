@@ -1,0 +1,16 @@
+@media screen and (max-width:856px)
+{
+    #m_nav{
+        display: none!important;
+    }
+    #filter{
+        display: none!important;
+    }
+    #main{
+        margin-left: 0px!important;
+    }
+    
+    #card1{
+        width: 500px!important;
+    }
+}
